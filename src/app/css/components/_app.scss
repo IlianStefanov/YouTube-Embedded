@@ -1,0 +1,21 @@
+@import '_pre-customizations';
+@import '_customizations';
+
+@import '_customizations';
+
+$transition-easing: cubic-bezier(0.455, 0.030, 0.515, 0.955);
+$dark-grey: #222222;
+$blue:         #1078ff;
+
+body {
+    padding: 50px 0;
+    background-color: blue;
+}
+h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#app {
+    .App {background: black}
+}

@@ -1,0 +1,1 @@
+var styles = require('./css/main.scss');
